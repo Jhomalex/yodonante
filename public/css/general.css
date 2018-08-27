@@ -1,0 +1,16 @@
+.imgEncabezado{
+   height: 500px;
+   max-width: 100%;
+   filter:brightness(0.4);
+}
+.coloryodonante{
+   background-color: #c54d5b !important;
+}
+.textoyodonante{
+   color: #c54d5b !important;
+}
+.btn-xs{
+   padding: 7px 7px !important;
+   line-height:1 !important;
+   font-size: 10px !important;
+}
